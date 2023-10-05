@@ -20,7 +20,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    transform: perspective(9px) rotateY(5deg);
+    transform: perspective(900px) rotateY(5deg);
     transition: transform 0.45s;
 }
 

@@ -108,7 +108,7 @@ button:hover {
 }
 
 #resultadoGorjeta {
-    font-size: 8px;
+    font-size: 18px;
     font-weight: bold;
     color: #333;
     margin-top: 20px;
@@ -161,7 +161,7 @@ select {
 
 #btnLimpar {
     margin-right: 110px;
-    margin-left: 150px;
+    margin-left: 15px;
 }
 
 #lblPorcentagemGorjeta {

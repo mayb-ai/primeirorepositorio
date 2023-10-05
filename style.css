@@ -78,7 +78,7 @@ button:hover {
     margin-top: 10px;
 }
 
-.popp {
+.popup {
     display: none;
     position: fixed;
     top: 0;
